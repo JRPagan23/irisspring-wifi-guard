@@ -1,44 +1,62 @@
-🌌 Iris Spring Wi-Fi Guard
+ 🌌 Iris Spring Wi-Fi Guard
 
-Scan • Detect • Clean — Your Home Network's First Line of Defense
-Price: Pay what you want (min. $10)
-🔐 Developed by a cybersecurity student passionate about space-age technology and clean networks.
+**Cross-platform Wi-Fi Network Scanner & Cleaner**  
+A futuristic, Flutter-powered tool for scanning your home network, identifying unknown or suspicious devices, and offering cleanup tips across iOS, Android, macOS, and desktop platforms.
 
-🔍 What It Does
-Iris Spring Wi-Fi Guard is a cross-platform network scanner and junk cleaner that helps you:
+![logo](assets/images/logo.png)
 
-✅ Scan your Wi-Fi for all connected devices
-🕵️ Flag unknown, suspicious, or junk devices
-📱 Guide you with tailored cleanup tips for iOS, Android, macOS, and Windows
-🧠 Educate you about safe device practices and home network hygiene
-🌌 Wrap it all in a galactic-themed UI powered by Flutter
-🚀 What's Included
-Wi-Fi Scanner (CLI): Fast, powerful device detection
-Custom Device Profiles: Identify known vs suspicious devices
-Cleanup Guides: Per-device advice to harden security
-Flutter GUI App: For desktop + mobile (iOS/Android support in development)
-Source Code (MIT License): Build, learn, and customize
-Free Lifetime Updates
-💻 Platforms
-macOS (fully working now)
-iOS (in development/tested via Xcode)
-Android/Web support in progress
-Runs in Terminal or with a beautiful Flutter GUI
-🎁 Bonuses
-✨ Developer/learner friendly source code
-📄 README + setup instructions
-🌐 Early access to future tools (OTA updates, device firewall manager, etc.)
-🧰 Bonus: Terminal tips + home network privacy checklist
-🧠 Who It’s For
-Cybersecurity students
-Ethical hackers
-Tech-savvy homeowners
-Privacy-conscious digital nomads
-People who want to own their network
-🧩 Requirements
-macOS (Intel or M1/M2)
-Python 3.x + nmap
-Flutter (for the GUI)
-A little curiosity
-🛡️ “My mission is to protect networks and build toward interdimensional systems—this is just the first layer.”
-— Jorge R., Iris Spring Creator
+---
+
+## 🚀 Features
+
+- 📡 **Wi-Fi Device Scanner** — Discovers connected devices on your local network
+- 🔍 **Suspicious Device Detection** — Flags unknown MAC addresses or IPs
+- 🧽 **Cleanup Recommendations** — Offers tips per device (iOS, Android, Windows, macOS)
+- 🎨 **Beautiful Space-Blue UI** — Galactic gradient visuals and custom fonts (Orbitron, Exo2)
+- 🖥️ **Cross-Platform** — Works on macOS, iOS, Android, and Web
+- 🛡️ **Built with Security in Mind** — Developed by a cybersecurity student focused on satellite and IoT security
+
+---
+
+## 📷 Screenshots
+
+> (Insert screenshots or animations of your app here)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter 3.32.6**
+- **Dart 3.8.1**
+- **nmap / subprocess (for scanning)**
+- **Custom Fonts & Flutter UI Design**
+- **GitHub Actions ready**
+
+---
+
+## 📲 Installation (for developers)
+
+```bash
+git clone https://github.com/JRPagan23/irisspring-wifi-guard.git
+cd irisspring_flutter
+flutter pub get
+flutter run
+For iOS/macOS builds: Ensure Xcode and CocoaPods are installed
+For Android: Android Studio and emulator/device connected
+📦 Distribute / Sell
+
+You can package and sell this app on:
+
+🛒 Gumroad or Ko-fi
+💼 Use as a security product or demonstration for clients
+🚀 Launch as a utility on mobile app stores (w/ custom branding)
+🧠 Author
+
+Jorge Rodriguez Pagan
+Cybersecurity + Satellite Systems Student | Creator of Iris Spring
+📡 [More projects coming soon…]
+
+🔐 Disclaimer
+
+This tool is for educational and personal use.
+Always get permission before scanning networks you don't own.
