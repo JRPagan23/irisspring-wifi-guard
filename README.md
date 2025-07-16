@@ -14,11 +14,6 @@ A futuristic, Flutter-powered tool for scanning your home network, identifying u
 - 🖥️ **Cross-Platform** — Works on macOS, iOS, Android, and Web
 - 🛡️ **Built with Security in Mind** — Developed by a cybersecurity student focused on satellite and IoT security
 
----
-
-## 📷 Screenshots
-
-> (Insert screenshots or animations of your app here)
 
 ---
 
