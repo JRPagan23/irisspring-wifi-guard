@@ -3,8 +3,6 @@
 **Cross-platform Wi-Fi Network Scanner & Cleaner**  
 A futuristic, Flutter-powered tool for scanning your home network, identifying unknown or suspicious devices, and offering cleanup tips across iOS, Android, macOS, and desktop platforms.
 
-![logo](assets/images/logo.png)
-
 ---
 
 ## 🚀 Features
